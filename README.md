@@ -1,6 +1,3 @@
-Here's an updated version of the README file with additional details about the CNN architecture built using Keras:
-
-```markdown
 # Emotion Detector
 
 This project is an Emotion Detection web application built using Flask and a Convolutional Neural Network (CNN) implemented with Keras. The application is capable of identifying human emotions from images, such as happy, sad, angry, surprised, and more.
